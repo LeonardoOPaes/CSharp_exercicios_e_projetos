@@ -1,0 +1,15 @@
+C:\Users\Leonardo\Meu Drive\Tecnologia\CSharp\curso_guida_do_programador\funcao\exe1\bin\Debug\net6.0\exe1.exe
+C:\Users\Leonardo\Meu Drive\Tecnologia\CSharp\curso_guida_do_programador\funcao\exe1\bin\Debug\net6.0\exe1.deps.json
+C:\Users\Leonardo\Meu Drive\Tecnologia\CSharp\curso_guida_do_programador\funcao\exe1\bin\Debug\net6.0\exe1.runtimeconfig.json
+C:\Users\Leonardo\Meu Drive\Tecnologia\CSharp\curso_guida_do_programador\funcao\exe1\bin\Debug\net6.0\exe1.dll
+C:\Users\Leonardo\Meu Drive\Tecnologia\CSharp\curso_guida_do_programador\funcao\exe1\bin\Debug\net6.0\ref\exe1.dll
+C:\Users\Leonardo\Meu Drive\Tecnologia\CSharp\curso_guida_do_programador\funcao\exe1\bin\Debug\net6.0\exe1.pdb
+C:\Users\Leonardo\Meu Drive\Tecnologia\CSharp\curso_guida_do_programador\funcao\exe1\obj\Debug\net6.0\exe1.csproj.AssemblyReference.cache
+C:\Users\Leonardo\Meu Drive\Tecnologia\CSharp\curso_guida_do_programador\funcao\exe1\obj\Debug\net6.0\exe1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\Meu Drive\Tecnologia\CSharp\curso_guida_do_programador\funcao\exe1\obj\Debug\net6.0\exe1.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Meu Drive\Tecnologia\CSharp\curso_guida_do_programador\funcao\exe1\obj\Debug\net6.0\exe1.AssemblyInfo.cs
+C:\Users\Leonardo\Meu Drive\Tecnologia\CSharp\curso_guida_do_programador\funcao\exe1\obj\Debug\net6.0\exe1.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Meu Drive\Tecnologia\CSharp\curso_guida_do_programador\funcao\exe1\obj\Debug\net6.0\exe1.dll
+C:\Users\Leonardo\Meu Drive\Tecnologia\CSharp\curso_guida_do_programador\funcao\exe1\obj\Debug\net6.0\ref\exe1.dll
+C:\Users\Leonardo\Meu Drive\Tecnologia\CSharp\curso_guida_do_programador\funcao\exe1\obj\Debug\net6.0\exe1.pdb
+C:\Users\Leonardo\Meu Drive\Tecnologia\CSharp\curso_guida_do_programador\funcao\exe1\obj\Debug\net6.0\exe1.genruntimeconfig.cache
