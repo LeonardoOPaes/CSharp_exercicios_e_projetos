@@ -1,0 +1,15 @@
+C:\Users\Leonardo\Meu Drive\Tecnologia\CSharp\curso_guida_do_programador\calculadora_no_CMD\bin\Debug\net6.0\calculadora_no_CMD.exe
+C:\Users\Leonardo\Meu Drive\Tecnologia\CSharp\curso_guida_do_programador\calculadora_no_CMD\bin\Debug\net6.0\calculadora_no_CMD.deps.json
+C:\Users\Leonardo\Meu Drive\Tecnologia\CSharp\curso_guida_do_programador\calculadora_no_CMD\bin\Debug\net6.0\calculadora_no_CMD.runtimeconfig.json
+C:\Users\Leonardo\Meu Drive\Tecnologia\CSharp\curso_guida_do_programador\calculadora_no_CMD\bin\Debug\net6.0\calculadora_no_CMD.dll
+C:\Users\Leonardo\Meu Drive\Tecnologia\CSharp\curso_guida_do_programador\calculadora_no_CMD\bin\Debug\net6.0\ref\calculadora_no_CMD.dll
+C:\Users\Leonardo\Meu Drive\Tecnologia\CSharp\curso_guida_do_programador\calculadora_no_CMD\bin\Debug\net6.0\calculadora_no_CMD.pdb
+C:\Users\Leonardo\Meu Drive\Tecnologia\CSharp\curso_guida_do_programador\calculadora_no_CMD\obj\Debug\net6.0\calculadora_no_CMD.csproj.AssemblyReference.cache
+C:\Users\Leonardo\Meu Drive\Tecnologia\CSharp\curso_guida_do_programador\calculadora_no_CMD\obj\Debug\net6.0\calculadora_no_CMD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\Meu Drive\Tecnologia\CSharp\curso_guida_do_programador\calculadora_no_CMD\obj\Debug\net6.0\calculadora_no_CMD.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Meu Drive\Tecnologia\CSharp\curso_guida_do_programador\calculadora_no_CMD\obj\Debug\net6.0\calculadora_no_CMD.AssemblyInfo.cs
+C:\Users\Leonardo\Meu Drive\Tecnologia\CSharp\curso_guida_do_programador\calculadora_no_CMD\obj\Debug\net6.0\calculadora_no_CMD.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Meu Drive\Tecnologia\CSharp\curso_guida_do_programador\calculadora_no_CMD\obj\Debug\net6.0\calculadora_no_CMD.dll
+C:\Users\Leonardo\Meu Drive\Tecnologia\CSharp\curso_guida_do_programador\calculadora_no_CMD\obj\Debug\net6.0\ref\calculadora_no_CMD.dll
+C:\Users\Leonardo\Meu Drive\Tecnologia\CSharp\curso_guida_do_programador\calculadora_no_CMD\obj\Debug\net6.0\calculadora_no_CMD.pdb
+C:\Users\Leonardo\Meu Drive\Tecnologia\CSharp\curso_guida_do_programador\calculadora_no_CMD\obj\Debug\net6.0\calculadora_no_CMD.genruntimeconfig.cache
