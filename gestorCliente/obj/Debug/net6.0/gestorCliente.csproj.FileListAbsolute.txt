@@ -1,0 +1,15 @@
+/home/leonardo/Área de Trabalho/gestorCliente/bin/Debug/net6.0/gestorCliente
+/home/leonardo/Área de Trabalho/gestorCliente/bin/Debug/net6.0/gestorCliente.deps.json
+/home/leonardo/Área de Trabalho/gestorCliente/bin/Debug/net6.0/gestorCliente.runtimeconfig.json
+/home/leonardo/Área de Trabalho/gestorCliente/bin/Debug/net6.0/gestorCliente.dll
+/home/leonardo/Área de Trabalho/gestorCliente/bin/Debug/net6.0/ref/gestorCliente.dll
+/home/leonardo/Área de Trabalho/gestorCliente/bin/Debug/net6.0/gestorCliente.pdb
+/home/leonardo/Área de Trabalho/gestorCliente/obj/Debug/net6.0/gestorCliente.csproj.AssemblyReference.cache
+/home/leonardo/Área de Trabalho/gestorCliente/obj/Debug/net6.0/gestorCliente.GeneratedMSBuildEditorConfig.editorconfig
+/home/leonardo/Área de Trabalho/gestorCliente/obj/Debug/net6.0/gestorCliente.AssemblyInfoInputs.cache
+/home/leonardo/Área de Trabalho/gestorCliente/obj/Debug/net6.0/gestorCliente.AssemblyInfo.cs
+/home/leonardo/Área de Trabalho/gestorCliente/obj/Debug/net6.0/gestorCliente.csproj.CoreCompileInputs.cache
+/home/leonardo/Área de Trabalho/gestorCliente/obj/Debug/net6.0/gestorCliente.dll
+/home/leonardo/Área de Trabalho/gestorCliente/obj/Debug/net6.0/ref/gestorCliente.dll
+/home/leonardo/Área de Trabalho/gestorCliente/obj/Debug/net6.0/gestorCliente.pdb
+/home/leonardo/Área de Trabalho/gestorCliente/obj/Debug/net6.0/gestorCliente.genruntimeconfig.cache
