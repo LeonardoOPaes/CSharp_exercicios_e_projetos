@@ -1,0 +1,15 @@
+C:\Users\Leonardo\Meu Drive\Tecnologia\CSharp\CSharp_exercicios_e_projetos\gestorEstoque\bin\Debug\net6.0\gestorEstoque.exe
+C:\Users\Leonardo\Meu Drive\Tecnologia\CSharp\CSharp_exercicios_e_projetos\gestorEstoque\bin\Debug\net6.0\gestorEstoque.deps.json
+C:\Users\Leonardo\Meu Drive\Tecnologia\CSharp\CSharp_exercicios_e_projetos\gestorEstoque\bin\Debug\net6.0\gestorEstoque.runtimeconfig.json
+C:\Users\Leonardo\Meu Drive\Tecnologia\CSharp\CSharp_exercicios_e_projetos\gestorEstoque\bin\Debug\net6.0\gestorEstoque.dll
+C:\Users\Leonardo\Meu Drive\Tecnologia\CSharp\CSharp_exercicios_e_projetos\gestorEstoque\bin\Debug\net6.0\ref\gestorEstoque.dll
+C:\Users\Leonardo\Meu Drive\Tecnologia\CSharp\CSharp_exercicios_e_projetos\gestorEstoque\bin\Debug\net6.0\gestorEstoque.pdb
+C:\Users\Leonardo\Meu Drive\Tecnologia\CSharp\CSharp_exercicios_e_projetos\gestorEstoque\obj\Debug\net6.0\gestorEstoque.csproj.AssemblyReference.cache
+C:\Users\Leonardo\Meu Drive\Tecnologia\CSharp\CSharp_exercicios_e_projetos\gestorEstoque\obj\Debug\net6.0\gestorEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\Meu Drive\Tecnologia\CSharp\CSharp_exercicios_e_projetos\gestorEstoque\obj\Debug\net6.0\gestorEstoque.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Meu Drive\Tecnologia\CSharp\CSharp_exercicios_e_projetos\gestorEstoque\obj\Debug\net6.0\gestorEstoque.AssemblyInfo.cs
+C:\Users\Leonardo\Meu Drive\Tecnologia\CSharp\CSharp_exercicios_e_projetos\gestorEstoque\obj\Debug\net6.0\gestorEstoque.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Meu Drive\Tecnologia\CSharp\CSharp_exercicios_e_projetos\gestorEstoque\obj\Debug\net6.0\gestorEstoque.dll
+C:\Users\Leonardo\Meu Drive\Tecnologia\CSharp\CSharp_exercicios_e_projetos\gestorEstoque\obj\Debug\net6.0\ref\gestorEstoque.dll
+C:\Users\Leonardo\Meu Drive\Tecnologia\CSharp\CSharp_exercicios_e_projetos\gestorEstoque\obj\Debug\net6.0\gestorEstoque.pdb
+C:\Users\Leonardo\Meu Drive\Tecnologia\CSharp\CSharp_exercicios_e_projetos\gestorEstoque\obj\Debug\net6.0\gestorEstoque.genruntimeconfig.cache
