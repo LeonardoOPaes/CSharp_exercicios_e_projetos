@@ -1,0 +1,15 @@
+/home/leonardo/Insync/leonardopaesjau@gmail.com/Google Drive/Tecnologia/CSharp/projetoConsumoAPI/bin/Debug/net6.0/projetoConsumoAPI
+/home/leonardo/Insync/leonardopaesjau@gmail.com/Google Drive/Tecnologia/CSharp/projetoConsumoAPI/bin/Debug/net6.0/projetoConsumoAPI.deps.json
+/home/leonardo/Insync/leonardopaesjau@gmail.com/Google Drive/Tecnologia/CSharp/projetoConsumoAPI/bin/Debug/net6.0/projetoConsumoAPI.runtimeconfig.json
+/home/leonardo/Insync/leonardopaesjau@gmail.com/Google Drive/Tecnologia/CSharp/projetoConsumoAPI/bin/Debug/net6.0/projetoConsumoAPI.dll
+/home/leonardo/Insync/leonardopaesjau@gmail.com/Google Drive/Tecnologia/CSharp/projetoConsumoAPI/bin/Debug/net6.0/ref/projetoConsumoAPI.dll
+/home/leonardo/Insync/leonardopaesjau@gmail.com/Google Drive/Tecnologia/CSharp/projetoConsumoAPI/bin/Debug/net6.0/projetoConsumoAPI.pdb
+/home/leonardo/Insync/leonardopaesjau@gmail.com/Google Drive/Tecnologia/CSharp/projetoConsumoAPI/obj/Debug/net6.0/projetoConsumoAPI.csproj.AssemblyReference.cache
+/home/leonardo/Insync/leonardopaesjau@gmail.com/Google Drive/Tecnologia/CSharp/projetoConsumoAPI/obj/Debug/net6.0/projetoConsumoAPI.GeneratedMSBuildEditorConfig.editorconfig
+/home/leonardo/Insync/leonardopaesjau@gmail.com/Google Drive/Tecnologia/CSharp/projetoConsumoAPI/obj/Debug/net6.0/projetoConsumoAPI.AssemblyInfoInputs.cache
+/home/leonardo/Insync/leonardopaesjau@gmail.com/Google Drive/Tecnologia/CSharp/projetoConsumoAPI/obj/Debug/net6.0/projetoConsumoAPI.AssemblyInfo.cs
+/home/leonardo/Insync/leonardopaesjau@gmail.com/Google Drive/Tecnologia/CSharp/projetoConsumoAPI/obj/Debug/net6.0/projetoConsumoAPI.csproj.CoreCompileInputs.cache
+/home/leonardo/Insync/leonardopaesjau@gmail.com/Google Drive/Tecnologia/CSharp/projetoConsumoAPI/obj/Debug/net6.0/projetoConsumoAPI.dll
+/home/leonardo/Insync/leonardopaesjau@gmail.com/Google Drive/Tecnologia/CSharp/projetoConsumoAPI/obj/Debug/net6.0/ref/projetoConsumoAPI.dll
+/home/leonardo/Insync/leonardopaesjau@gmail.com/Google Drive/Tecnologia/CSharp/projetoConsumoAPI/obj/Debug/net6.0/projetoConsumoAPI.pdb
+/home/leonardo/Insync/leonardopaesjau@gmail.com/Google Drive/Tecnologia/CSharp/projetoConsumoAPI/obj/Debug/net6.0/projetoConsumoAPI.genruntimeconfig.cache
