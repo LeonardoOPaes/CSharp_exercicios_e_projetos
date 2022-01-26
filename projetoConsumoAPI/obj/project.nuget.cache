@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "iE/x3E5ZIeFDvtE0wlCb3YtMaJ3o7MwFMKOGCfSPO85vhoLuD/H0/rjhkaj6kUt+32rGeYLtee89+wTH5HJkZA==",
+  "dgSpecHash": "JHRYxF6o7i59+KXDl9mJIBDcNyzITmtVcsMS/p4wMLkc/QjbhE7zO7HqjD1CSKCo5R9kL+b9laRzN8CGtkJi4A==",
   "success": true,
-  "projectFilePath": "/home/leonardo/Insync/leonardopaesjau@gmail.com/Google Drive/Tecnologia/CSharp/projetoConsumoAPI/projetoConsumoAPI.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/leonardo/Insync/leonardopaesjau@gmail.com/Google Drive/Tecnologia/CSharp/CSharp_exercicios_e_projetos/projetoConsumoAPI/projetoConsumoAPI.csproj",
+  "expectedPackageFiles": [
+    "/home/leonardo/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
