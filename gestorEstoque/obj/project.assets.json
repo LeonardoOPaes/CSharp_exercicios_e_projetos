@@ -8,26 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Leonardo\\.nuget\\packages\\": {}
+    "/home/leonardo/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Leonardo\\Meu Drive\\Tecnologia\\CSharp\\CSharp_exercicios_e_projetos\\gestorEstoque\\gestorEstoque.csproj",
+      "projectUniqueName": "/home/leonardo/Insync/leonardopaesjau@gmail.com/Google Drive/Tecnologia/CSharp/CSharp_exercicios_e_projetos/gestorEstoque/gestorEstoque.csproj",
       "projectName": "gestorEstoque",
-      "projectPath": "C:\\Users\\Leonardo\\Meu Drive\\Tecnologia\\CSharp\\CSharp_exercicios_e_projetos\\gestorEstoque\\gestorEstoque.csproj",
-      "packagesPath": "C:\\Users\\Leonardo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Leonardo\\Meu Drive\\Tecnologia\\CSharp\\CSharp_exercicios_e_projetos\\gestorEstoque\\obj\\",
+      "projectPath": "/home/leonardo/Insync/leonardopaesjau@gmail.com/Google Drive/Tecnologia/CSharp/CSharp_exercicios_e_projetos/gestorEstoque/gestorEstoque.csproj",
+      "packagesPath": "/home/leonardo/.nuget/packages/",
+      "outputPath": "/home/leonardo/Insync/leonardopaesjau@gmail.com/Google Drive/Tecnologia/CSharp/CSharp_exercicios_e_projetos/gestorEstoque/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Leonardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/leonardo/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -60,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
       }
     }
   }
